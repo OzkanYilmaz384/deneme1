@@ -1,2 +1,2 @@
-Here's some info.
 Here's more info about sth.
+Here is the line I added.
