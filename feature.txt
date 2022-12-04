@@ -1,4 +1,4 @@
-Her's my new feature
-Edited a line
-Added a new line
-Added a line
+
+Here's my second feature!
+Better than the first feature!
+
